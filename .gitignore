@@ -5,6 +5,9 @@ __pycache__/
 venv/
 .env
 
+# Tests
+.pytest_cache/
+
 # Jupyter / Colab
 .ipynb_checkpoints/
 
