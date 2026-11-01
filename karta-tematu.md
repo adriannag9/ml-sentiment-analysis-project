@@ -46,8 +46,8 @@ _Dlaczego akurat ta technologia:_ Problem to klasyfikacja: mamy tysiące recenzj
 
 |||
 |---|---|
-|Źródło|Filmweb+, M. Narolski, 2020. https://github.com/narolski/filmwebplus|
-|Rozmiar i format|27 202 recenzje filmowe po polsku z serwisów Filmweb, Film.org.pl, Kinoblog, FDB i blogfilmowy24, średnio ok. 515 słów na recenzję. Jeden plik CSV (tekst recenzji i etykieta), spakowany ok. 42 MB, po rozpakowaniu ok. 104 MB.|
+|Źródło|Filmweb+, Paweł Narolski, 2020. https://github.com/narolski/filmwebplus. Licencja MIT.|
+|Rozmiar i format|27 202 recenzje filmowe po polsku z serwisów Filmweb, Film.org.pl, Kinoblog, FDB i blogfilmowy24, średnio ok. 514 słów na recenzję. Jeden plik CSV (tekst recenzji i etykieta), spakowany ok. 42 MB, po rozpakowaniu ok. 104 MB. Etykiety według oceny autora recenzji: nieoznaczone 7 710, negatywne 3 085, neutralne 9 436, pozytywne 6 971. Używamy tylko recenzji negatywnych (3 085) i pozytywnych (6 971). Po wyrównaniu liczby recenzji w obu grupach zostaje ok. 6 170 recenzji (3 085 + 3 085).|
 |Czy są już dostępne?|tak|
 
 
