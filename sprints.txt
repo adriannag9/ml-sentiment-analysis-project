@@ -1,0 +1,14 @@
+=== Sprint 9112026–16112026 ===
+Zobowiązanie z poprzedniego sprintu: BRAK
+
+Dawid Ślusarczyk
+Zrobiłem: Aktualnie nic poza vektoryzacją i oczyszczeniem danych ponieważ potrzebny nam będzie perceptron a o tym dowiemy się dopiero na zajęciach 21112026. 
+W następnym tygodniu zrobię: Prawdopodobnie spróbuję posiłkując się wiedzą z sieci przysiąść do perceptrona
+
+Gilbert Helwich
+Zrobiłem: skrypt pobierający dane, analiza zbioru opinii
+W następnym tygodniu zrobię: przygotowanie wspolnie szkieletu aplikacji
+
+Blokuje nas: Brak wiedzy o perceptronie. Walkaround w postaci wiedzy z neta lub czekanie do zajęć 21112026
+Zobowiązanie zespołu na następny sprint: Perceptron
+
